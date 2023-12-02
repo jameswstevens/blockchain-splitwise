@@ -19,3 +19,5 @@ Automatically removes cycles of dept similar to the Splitwise app.
 1) Choose debtor address in the top right
 2) Choose creditor address in the bottom right
 3) Exchange debt between the parties
+
+CS 251 Project 3: Splitwise
