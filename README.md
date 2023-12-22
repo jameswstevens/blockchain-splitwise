@@ -1,7 +1,7 @@
 # blockchain-splitwise
 
 A simple way to keep track of who owes who money over a blockchain.
-Automatically removes cycles of dept similar to the Splitwise app.
+Automatically removes cycles of dept similar to Splitwise.
 
 # Setup
 1. Run npm install --save-dev hardhat
